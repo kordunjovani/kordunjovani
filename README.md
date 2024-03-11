@@ -1,4 +1,4 @@
-### Olá! Eu sou o Jovani Kordun 👋
+### Prof°. Jovani Kordun 👋
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jovanikordun?igsh=MWpkaGx0eWpjaXBo)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/Cm93UmxmJVdUPa6t/?mibextid=qi2Omg)
