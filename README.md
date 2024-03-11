@@ -5,3 +5,9 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovani-kordun-8b3713202/)
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kordunjovani)
 [![G mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://jovanikordun2013@gmail.com)
+
+
+### Olá!
+
+📱Sou professor nos cursos: Matemática, Pensamento Computacionl e Robótica.
+👨‍💻Estou trabalhando no [![Colégio](Colégio Estadual Adélia Bianco Seguro)](http://www.consultaescolas.pr.gov.br/consultaescolas-java/pages/templates/initial2.jsf?windowId=9cf&codigoEstab=22&codigoMunicipio=1584)
