@@ -1,10 +1,7 @@
-# Sobre Mim
+### Olá! Eu sou o Jovani Kordun 👋
 
-:+1:Olá! Meu nome é Jovani Kordun...
-
-:+1: Meu e-mail de contato é jovanikordun2013@gmail.com
-
-:+1: Eu sou aprendiz em novas linguagens de programação..
-
-:+1: Eu estou aprendento a programar em JavScript + Scratch, Mblock, Python, C++...
-
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jovanikordun?igsh=MWpkaGx0eWpjaXBo)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/Cm93UmxmJVdUPa6t/?mibextid=qi2Omg)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovani-kordun-8b3713202/)
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kordunjovani)
+[![G mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://jovanikordun2013@gmail.com)
