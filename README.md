@@ -12,3 +12,5 @@
 📱Sou professor nos cursos: Matemática, Pensamento Computacionl e Robótica.
 
 👨‍💻Estou trabalhando no <a href="http://www.consultaescolas.pr.gov.br/consultaescolas-java/pages/templates/initial2.jsf?windowId=9cf&codigoEstab=22&codigoMunicipio=1584"> Colégio Estadual Adélia Bianco Seguro - PR.</a></li>
+
+🎓Sou acadêmico em Análise e Desenvolvimento de Sistemas.
